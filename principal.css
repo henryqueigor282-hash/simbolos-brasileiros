@@ -1,0 +1,81 @@
+body {
+  background-color: #fdfdfd;
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+  min-height: 100vh;
+}
+
+
+h1 {
+  font-family: 'Times New Roman', Times, serif;
+  color: rgb(0, 0, 0);
+  font-weight: bold;
+  text-align: center;
+  margin-top: 30px;
+
+}
+
+h2 {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  color: rgb(31, 31, 104);
+  font-weight: bold;
+  text-align: center;
+  margin-top: 10px;
+}
+
+.titulo-texto {
+  font-family: Tahoma, sans-serif;
+  color: rgb(71, 69, 174);
+  text-align: center;
+  margin-top: 30px;
+}
+
+.texto {
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  font-size: 16px;
+  color: rgb(255, 255, 255);
+  text-align: justify;
+  margin: 20px;
+  line-height: 1.6;
+}
+
+table {
+  margin: 0 auto;
+  border-collapse: collapse;
+}
+table img {
+  display: block;
+  margin: 0 auto;
+}
+
+
+a {
+  display: block;
+  text-align: center;
+  margin: 10px auto;
+  font-weight: bold;
+  color: #fb0606;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+footer {
+  text-align: center;
+  margin-top: 20px;
+  font-size: 14px;
+  color: #333;
+}
+
+.audio-container {
+  text-align: center;
+  margin-top: 20px;
+  font-size: 60px;
+
+}
+.texto{
+  color: black;
+}
